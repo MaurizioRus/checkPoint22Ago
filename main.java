@@ -26,9 +26,9 @@ public class main {
 
         Product[] products = new Product[3];
 
-        Products[0] = new Product("alessio" , "Com1" , 01 , 5);
-        Products[1] = new Product("alessia" , "Com2" , 02 , 6);
-        Products[2] = new Product("alex" , "Com3" , 03 , 7);
+        products[0] = new Product("alessio" , "Com1" , 01 , 5);
+        products[1] = new Product("alessia" , "Com2" , 02 , 6);
+        products[2] = new Product("alex" , "Com3" , 03 , 7);
 
         printNameLastLetter(products);
 
